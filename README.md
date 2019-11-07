@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I designed this Web Page using React and it can be used to check hourly weather updates for upto 5 days
+
+I am fetching the Live data using API.
+
+Below are the Images to give you a top level of the web page
+
+![5 Day View](https://github.com/Deepankkhurana/weatherapplication/blob/master/public/Screen%20Shot%202019-11-07%20at%201.28.47%20PM.png)
+
+![Hourly View](https://github.com/Deepankkhurana/weatherapplication/blob/master/public/Screen%20Shot%202019-11-07%20at%201.28.27%20PM.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
